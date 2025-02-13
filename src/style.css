@@ -1,3 +1,14 @@
 body {
-    background-color: blanchedalmond;
+    background: rgba(230, 214, 198, 0.49);
+}
+h1 {
+    font-family: "Noto Serif", serif;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 1.5;
+}
+
+.container {
+    margin: 100px auto;
+    max-width: 600px;
 }
